@@ -1,6 +1,6 @@
-## PHYS270-FinalProject
+# PHYS270-FinalProject
 
-# Authors: Janavi Chadha, Zuzanna Matysiak
+## Authors: Janavi Chadha, Zuzanna Matysiak
 
 COVID-19 pandemic has affected lives of many individuals across the world in the past 2 years. Therefore, in our project we simulated spread of the COVID-19 disease using Brownian motion given various initial conditions to understand the potential infection rate better.
 
