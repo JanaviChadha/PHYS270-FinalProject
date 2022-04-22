@@ -1,4 +1,4 @@
-# PHYS270-FinalProject
+# PHYS260-FinalProject
 
 ## Authors: Janavi Chadha, Zuzanna Matysiak
 
